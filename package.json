@@ -1,0 +1,12 @@
+{
+  "name": "@oof2510/random-pokemon-image",
+  "version": "1.0.0",
+  "description": "Gets an image of a random pokemon",
+  "main": "index.js",
+  "author": "OOF2510",
+  "license": "MPL-2.0",
+  "scripts": {
+    "test": "node test.js",
+    "json": "node makejson.js"
+  }
+}
