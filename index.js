@@ -9,4 +9,4 @@ function randomPokeImg() {
   return img;
 }
 
-module.export = randomPokeImg
+module.exports = { randomPokeImg };

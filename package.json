@@ -1,6 +1,6 @@
 {
   "name": "@oof2510/random-pokemon-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gets an image of a random pokemon",
   "main": "index.js",
   "author": "OOF2510",
